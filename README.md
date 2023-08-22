@@ -49,6 +49,6 @@ These files showcase My expertise in backend logic and API interactions, crucial
 ---
 ## Contact
 
-For questions or feedback, feel free to reach out at [abdelrahman.abdelaziz9@gmail.com].
+For questions or feedback, feel free to reach out at abdelrahman.abdelaziz9@gmail.com.
 
 Thank you for your contribution to the Boss Machine project!
