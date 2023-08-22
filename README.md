@@ -42,6 +42,11 @@ These files showcase My expertise in backend logic and API interactions, crucial
 
 ![Boss Machine Demo](Demo.JPG)
 
+---
+
+- **Note:** This README.md was mostly generated using ChatGPT.
+
+---
 ## Contact
 
 For questions or feedback, feel free to reach out at [abdelrahman.abdelaziz9@gmail.com].
